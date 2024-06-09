@@ -1,12 +1,12 @@
-## Personal Bookshelf
+# Personal Bookshelf
 
 Organize your favorite books in this interactive website. Search for titles, build your virtual bookshelf, and explore new reads through Open Library's API. React and TypeScript ensure a smooth user experience, while Tailwind CSS allows for rapid, modern styling.
 
-# Tech Stack: 
+## Tech Stack: 
 
-React + TypeScript, Tailwind CSS, Open Library API
+React + TypeScript + Tailwind CSS + Open Library API
 
-# Running the Project Locally
+## Running the Project Locally
 
 1. Clone the Repository:
 
