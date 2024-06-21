@@ -24,4 +24,8 @@ React + TypeScript + Tailwind CSS + Open Library API
    npm run dev
    ```
 
+## ScreenShot
+
+![image](https://github.com/Jainex17/Personal-Bookshelf/assets/81921291/dee9d247-65f5-46e5-a781-7a0e97c80c0e)
+
    
